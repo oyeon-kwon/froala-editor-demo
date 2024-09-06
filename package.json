@@ -1,0 +1,27 @@
+{
+  "name": "froala-editor-demo",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "font-awesome": "^4.7.0",
+    "froala-editor": "^4.2.2",
+    "next": "14.2.8",
+    "react": "^18",
+    "react-dom": "^18",
+    "react-froala-wysiwyg": "^4.2.2"
+  },
+  "devDependencies": {
+    "@types/node": "^20",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "eslint": "^8",
+    "eslint-config-next": "14.2.8",
+    "typescript": "^5"
+  }
+}
